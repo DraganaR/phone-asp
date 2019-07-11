@@ -1,0 +1,66 @@
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\ApplicationInsights.config
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\csc.exe
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\vbc.exe
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\VBCSCompiler.exe
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Assignmnent.dll.config
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Assignmnent.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Assignmnent.pdb
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.Web.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.Web.xml
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\obj\Debug\Assignmnent.csprojResolveAssemblyReference.cache
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\obj\Debug\Assignmnent.dll
+C:\Users\DRAGA\Desktop\College\Cloud\assignment\Assignmnent\Assignmnent\obj\Debug\Assignmnent.pdb
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\ApplicationInsights.config
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\csc.exe
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\vbc.exe
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\VBCSCompiler.exe
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Assignmnent.dll.config
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Assignmnent.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Assignmnent.pdb
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.Web.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.Web.xml
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\obj\Debug\Assignmnent.csprojResolveAssemblyReference.cache
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\obj\Debug\Assignmnent.dll
+C:\Users\DRAGA\Desktop\College\Cloud\Phone assignment ASP\Assignmnent\Assignmnent\obj\Debug\Assignmnent.pdb
